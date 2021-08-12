@@ -1,3 +1,4 @@
+catatan finger id = 99 pass = 	220280
 # permisionPHP
 1. User Group
 Pastikan user/group www-data tersebut sudah ada
